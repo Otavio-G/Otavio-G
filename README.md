@@ -9,7 +9,7 @@
 
 - 🇧🇷 Brasileiro e Mineiro uai
  
-- 🧑‍🎓 Universidade Federal de Viçosa - [UFV-Florestal](https://www.ufv.br/)
+- 🧑‍🎓 Graduando na Universidade Federal de Viçosa - [UFV-Florestal](https://www.ufv.br/)
 
 - 🔍 Participa do grupo de pesquisa [NuPESSC-UFV](http://nupessc.caf.ufv.br/)
 
@@ -19,6 +19,6 @@
 ### Stats for Nerds
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=otaviouss&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviouss&theme=react&layout=compact" />
+  <img height= "160" src="https://github-readme-stats.vercel.app/api?username=otaviouss&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviouss&theme=react&layout=compact" />
 </p>
