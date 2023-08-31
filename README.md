@@ -9,11 +9,9 @@
 
 - 🇧🇷 Brasileiro e Mineiro uai
  
-- 🧑‍🎓 Graduando na Universidade Federal de Viçosa - [UFV-Florestal](https://www.ufv.br/)
+- 💻 Bacharel em Ciência da Computação pela Universidade Federal de Viçosa - [UFV-Florestal](https://www.ufv.br/)
 
-- 🔍 Participa do grupo de pesquisa [NuPESSC-UFV](http://nupessc.caf.ufv.br/)
-
-- 💻 Estagiário no Instituto de Tecnologia e Sociedade do Rio de Janeiro - [ITS-Rio](https://itsrio.org/)
+- 🔎 Pesquisador no Instituto de Tecnologia e Sociedade do Rio de Janeiro - [ITS-Rio](https://itsrio.org/)
 
 
 ### Stats for Nerds
